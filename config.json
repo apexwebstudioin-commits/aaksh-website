@@ -1,0 +1,17 @@
+{
+  "clinic_name": "aaksh",
+  "doctor_name": "aksh",
+  "call_number": "8740090270",
+  "whatsapp_number": "8740090270",
+  "address": "purani guruthare ki pass",
+  "services": [
+    "General Checkup",
+    "Root Canal",
+    "Teeth Whitening",
+    "Dental Implants"
+  ],
+  "images": {
+    "logo_url": "https://i.ibb.co/dummy-logo-link.jpg",
+    "doctor_url": "https://i.ibb.co/dummy-doctor-link.jpg"
+  }
+}
